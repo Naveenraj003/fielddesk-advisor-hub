@@ -4,11 +4,11 @@ import { useNavigate } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 
 const teamMembers = [
-  { name: 'Naveen Raj', role: 'Lead Developer', focus: 'Full-stack architecture, product integration, and delivery.' },
-  { name: 'Arziya Nazirin', role: 'UX and Story Design', focus: 'Onboarding flow, user clarity, and design narratives.' },
-  { name: 'Latchana', role: 'Data and Validation', focus: 'Mock datasets, field metrics, and scenario quality checks.' },
-  { name: 'Meganathan', role: 'Agronomy Logic Support', focus: 'Soil recommendation structure and farmer workflow alignment.' },
-  { name: 'Kabilan', role: 'QA and Operations', focus: 'Journey testing, edge-case validation, and release readiness.' },
+  { name: 'Naveen Raj B', role: 'Lead Developer', focus: 'Full-stack architecture, product integration, and delivery.' },
+  { name: 'Arshiya Nasirin M', role: 'UX and Story Design', focus: 'Onboarding flow, user clarity, and design narratives.' },
+  { name: 'Kabilan M', role: 'QA and Operations', focus: 'Journey testing, edge-case validation, and release readiness.' },
+  { name: 'Meganathan R', role: 'Agronomy Logic Support', focus: 'Soil recommendation structure and farmer workflow alignment.' },
+  { name: 'Latchana S', role: 'Data and Validation', focus: 'Mock datasets, field metrics, and scenario quality checks.' },
 ];
 
 const realityScenarios = [
